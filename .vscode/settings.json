@@ -10,9 +10,11 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./tests",
+        "${workspaceFolder}",
         "-p",
         "test_*.py",
+        "-t",
+        "${workspaceFolder}/.."
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true
