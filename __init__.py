@@ -25,7 +25,7 @@ bl_info = {
     "author": "Polygoningenieur Gustav Hahn",
     "description": "...",
     "blender": (4, 4, 0),
-    "version": (0, 0, 2),
+    "version": (0, 0, 3),
     "location": "View3D",
     "support": "COMMUNITY",
 }

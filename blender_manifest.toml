@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "blender_addon_testing"
-version = "0.0.2"
+version = "0.0.3"
 name = "Blender Addon Testing"
 tagline = "..."
 maintainer = "Polygoningenieur Gustav Hahn <gustav.hahn@polygoningenieur.de>"
